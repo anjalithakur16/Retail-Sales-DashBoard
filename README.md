@@ -77,4 +77,4 @@ Visual
 2. Bar Chart (Cancellation Rate %)	Identify categories with high cancellations
 
 # 5. Snapshot Of a DashBoard
-
+https://github.com/anjalithakur16/Store-Sales-DashBoard/blob/main/SnapShot%20%20Of%20the%20DashBoard.png
